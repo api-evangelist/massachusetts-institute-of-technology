@@ -1,0 +1,59 @@
+{
+    "name": "Massachusetts Institute of Technology",
+    "description": "The Massachusetts Institute of Technology is a private research university located in Cambridge, Massachusetts, United States.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18870-massachusetts-institute-of-technology.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "universities",
+        "university in progress",
+        "university library"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/massachusetts-institute-of-technology\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Massachusetts Institute of Technology",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18870-massachusetts-institute-of-technology.jpg",
+            "humanURL": "http:\/\/mit.edu",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/massachusetts-institute-of-technology-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/massachusetts-institute-of-technology-mit"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/ist.mit.edu\/web-api"
+        },
+        {
+            "type": "Mobile",
+            "url": "http:\/\/m.mit.edu\/docs\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MIT"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mit.edu"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/web.mit.edu\/"
+        }
+    ]
+}
